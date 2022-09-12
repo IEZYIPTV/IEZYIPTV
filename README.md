@@ -110,10 +110,10 @@ https://linears-playback.astro.com.my/vsg/41lBSFLNfIqC9xPDkptlqRneZEqBtUufL5y1Ez
 #EXTINF: -1 tvg-id="815" group-title="SPORTS" ch-number="815" tvg-logo="https://1.bp.blogspot.com/-G1ybsVj3pVM/YVfh0eGkIwI/AAAAAAAAAFA/24zokUAS_fchmnChJzlGaeiAnac7fA9JgCLcBGAsYHQ/w1200-h630-p-k-no-nu/Astro_Supersport_5.png",815 Astro SuperSport 5 HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
 
-https://www.google.com/search?q=wwe+network&client=ms-android-xiaomi-rvo3&prmd=vni&sxsrf=ALiCzsY7Hpcl08gPI8xmjyG9N3ESrIkLcQ:1662995992122&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiM8P3qxo_6AhVL9zgGHYfvCQMQ_AUoA3oECAIQAw&biw=393&bih=783&dpr=2.75#imgrc=1gediME9jsoFeM
+KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=782f32d9501ac50dfd783671ade95210&key=9690dcf2368b1664680a8099125ccca9
+#EXTINF:-1 tvg-id="821" tvg-logo="http://linear-poster.astro.com.my/prod/logo/WWE_v1.png" group-title="SPORTS",WWE NETWORK
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
-
-
 -----------------------ASTRO----------------------------------------------------------------------------------------------------------
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey

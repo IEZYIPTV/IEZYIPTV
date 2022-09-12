@@ -232,7 +232,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39b114b7ebecd9d4a7f1c797dd885b10&key=8d2be29307bb382c8c6c286cc9cd07c6
 #EXTINF:-1 tvg-id="611" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230" group-title="ASTRO",ASTRO CERIA HD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_primary.mpd
 
 
 
@@ -243,11 +243,10 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
 
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png" group-title="MALAYSIA" ,TV1
-https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png" group-title="MALAYSIA" ,TV2
-https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
-
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 
 
 
@@ -262,11 +261,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_ott.mpd
 
 #EXTINF:-1 tvg-id="103" group-title="MALAYSIA" ch-number="103" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 TV3 A
-https://live.astradamy.com/tv3/index.m3u8
-
-
-#EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="MALAYSIA",103 TV3 B
-https://Astro.kpsboyserver.com/tv3.m3u8
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
@@ -279,7 +274,7 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTINF:-1 tvg-ID="123" tvg-logo="https://user-images.githubusercontent.com/85995579/128817749-0901f1fa-a6e5-4c6f-9207-c72365d9225d.png" group-title="MALAYSIA",AWESOME TV
-https://tv.kpsvpn.com/awesome.m3u8
+https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
 
 
 #EXTINF:-1  tvg-id="106" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814" group-title="MALAYSIA" ,TV6
